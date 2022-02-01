@@ -2,7 +2,7 @@
 # Welcome-to-GitHub
 First repository for new users
 
-Please enter your name: Damian Kim
+Please enter your name: [Damian Kim](https://damiankim.com)
 
 Please enter your favorite color: Seafoam Green
 
